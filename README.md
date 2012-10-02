@@ -1,4 +1,6 @@
 docs
 ====
 
-dos for CellMLCompilerProject
+docs for CellMLCompilerProject
+
+[wiki](https://github.com/y-d-yamashita/docs/wiki)
